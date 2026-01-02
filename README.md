@@ -17,6 +17,11 @@
   <a href="https://www.elsevier.com/">
     <img src="https://img.shields.io/badge/Elsevier-Journal-orange?style=flat-square" alt="Elsevier Badge"/>
   </a>
+  <br/><br/>
+
+    <!-- Inverted Pendulum Animation -->
+  <img src="./gif_for_readme.gif" width="700px"/>
+  
 </div>
 
 ---
