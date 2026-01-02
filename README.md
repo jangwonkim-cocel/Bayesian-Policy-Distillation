@@ -20,7 +20,7 @@
   <br/><br/>
 
     <!-- Inverted Pendulum Animation -->
-  <img src="./gif_for_readme.gif" width="700px"/>
+  <img src="./gif_for_readme.gif" width="500px"/>
   
 </div>
 
