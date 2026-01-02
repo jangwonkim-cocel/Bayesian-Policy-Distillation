@@ -53,13 +53,6 @@ BPD achieves extreme policy compression through offline reinforcement learning b
 
 ---
 
-## Installation
-```bash
-pip install torch numpy gymnasium pandas tabulate gdown
-```
-
----
-
 ## Quick Start
 
 ### Basic Training
