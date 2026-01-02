@@ -117,21 +117,6 @@ python main.py \
 - **Inference**: 1.36ms → 0.30ms (**4.5× faster**)
 - **Memory**: 290.82KB → 4.43KB (**98.5% reduction**)
 - **Parameters**: 72,705 → 1,108 (**65.6× compression**)
-
----
-
-## Code Structure
-```
-├── main.py              # Training script
-├── BPD.py               # BPD agent
-├── network.py           # Policy & critic networks
-├── layer.py             # LinearSVDO (Bayesian layer)
-├── SGVLB.py             # Loss computation
-├── replay_memory.py     # Replay buffer
-├── utils.py             # Utilities
-└── logger.py            # Logging
-```
-
 ---
 
 ## Citation
