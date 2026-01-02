@@ -18,9 +18,7 @@
     <img src="https://img.shields.io/badge/Elsevier-Journal-orange?style=flat-square" alt="Elsevier Badge"/>
   </a>
   <br/><br/>
-
-    <!-- Inverted Pendulum Animation -->
-  <img src="./gif_for_readme.gif" width="500px"/>
+  <img src="./gif_for_readme.gif" width="550px"/>
   
 </div>
 
