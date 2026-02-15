@@ -27,7 +27,7 @@
 ## Engineering Applications of Artificial Intelligence (EAAI 2026)
 ### PyTorch Implementation
 
-This repository contains a PyTorch implementation of **Bayesian Policy Distillation (BPD)** from the paper:
+This repository contains a PyTorch implementation of **Bayesian Policy Distillation (BPD)** of the paper:
 
 > **Bayesian policy distillation: Towards lightweight and fast neural policy networks**  
 > Jangwon Kim, Yoonsu Jang, Jonghyeok Park, Yoonhee Gil, Soohee Han  
